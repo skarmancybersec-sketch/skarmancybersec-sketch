@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**skarmancybersec-sketch/skarmancybersec-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shaikh Arman ali 👋
 
-Here are some ideas to get you started:
+### 🛡️ Aspiring Cybersecurity Analyst | Ethical Hacker in Making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Securing the digital world, one vulnerability at a time."
+
+I'm a passionate learner from Pandua, hoogly, West Bengal, on a mission to become a Cybersecurity student. I love breaking things to understand how to secure them!
+
+---
+### 🚀 What I'm Learning:
+- 🔐 Network Security & Fundamentals
+- 🐧 Linux & Kali Linux
+- 🕵️‍♂️ Ethical Hacking Tools (Nmap, Wireshark, Burp Suite)
+- 💻 TryHackMe & HackTheBox
+- 🛡️ Vulnerability Assessment & Penetration Testing
+
+### 🛠️ My Arsenal:
+`Cybersecurity` `Ethical Hacking` `Linux` `Networking` `InfoSec`
+
+### 📫 Connect With Me:
+- 📧 skarman.cybersec@gmail.com
+- 💼 LinkedIn: Add your link here
+
+---
+⭐ From a small town in West Bengal, dreaming to secure the world!
