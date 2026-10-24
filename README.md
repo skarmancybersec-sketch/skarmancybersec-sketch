@@ -1,26 +1,28 @@
 
-# Hi, I'm Shaikh Arman ali 👋
+# # Hi, I'm Shaikh Arman ali 👋
 
-### 🛡️ Aspiring Cybersecurity Analyst | Ethical Hacker in Making
+### 🌱 Absolute Beginner | Future Cybersecurity Enthusiast
 
-> "Securing the digital world, one vulnerability at a time."
+> "Starting from zero, learning one command at a time."
 
-I'm a passionate learner from Pandua, hoogly, West Bengal, on a mission to become a Cybersecurity student. I love breaking things to understand how to secure them!
+Hey! I'm from Pandua, Hooghly, West Bengal. I just started my journey in tech and cybersecurity. Currently, I can run basic commands in Termux and I'm learning every day. This is my honest start.
 
 ---
-### 🚀 What I'm Learning:
-- 🔐 Network Security & Fundamentals
-- 🐧 Linux & Kali Linux
-- 🕵️‍♂️ Ethical Hacking Tools (Nmap, Wireshark, Burp Suite)
-- 💻 TryHackMe & HackTheBox
-- 🛡️ Vulnerability Assessment & Penetration Testing
+### 📚 Currently Learning:
+- 📱 Termux Basics & Linux Commands
+- 💻 What is Cybersecurity? (Fundamentals)
+- ⌨️ Learning to use the terminal properly
+- 📖 Documenting everything I learn
 
-### 🛠️ My Arsenal:
-`Cybersecurity` `Ethical Hacking` `Linux` `Networking` `InfoSec`
+### 🎯 My Goal:
+To become a Cybersecurity Analyst step-by-step. No fake skills, just real learning in public.
+
+### 🛠️ Tools I'm Exploring:
+`Termux` `Linux` `Beginner`
 
 ### 📫 Connect With Me:
-- 📧 skarman.cybersec@gmail.com
-- 💼 LinkedIn: Add your link here
+- 📧 skarmancybersec-sketch@github (You can add your email)
+- 🌱 Let's learn together!
 
 ---
-⭐ From a small town in West Bengal, dreaming to secure the world!
+✨ Day 1: If you're a beginner too, let's connect! We will grow together.
